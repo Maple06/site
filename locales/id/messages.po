@@ -1,10 +1,11 @@
 # 
 # Translators:
 # dhani, 2022
+# malen, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: dhani, 2022\n"
+"Last-Translator: malen, 2023\n"
 "Language-Team: Indonesian (https://www.transifex.com/nohello/teams/131463/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +18,7 @@ msgstr "tolong jangan hanya menyapa dalam obrolan"
 
 msgid "header.introduction"
 msgstr ""
-"Bayangkan menelepon seseorang di telepon, bilang _halo!_ lalu membuat mereka"
+"Bayangkan kamu menelepon seseorang di telepon, hanya bilang _halo!_ lalu membuat mereka"
 " menunggu... 🤦‍♀️"
 
 msgid "example.character.neutral.name"
@@ -46,15 +47,15 @@ msgid "example.bad.body"
 msgstr ""
 "Perhatikan bahwa Keith bisa mendapatkan jawabannya beberapa menit lebih cepat, dan tidak perlu membuat Tim menunggu. Sebenarnya, Tim bisa saja langsung memikirkan pertanyaan itu!\n"
 "\n"
-"Orang yang melakukan ini biasanya mencoba bersikap sopan dengan tidak langsung menjawab permintaan, seperti yang dilakukan secara langsung atau melalui telepon - dan itu bagus! Tapi itu %1$s dan obrolan bukan keduanya. Bagi kebanyakan orang, mengetik jauh lebih lambat daripada berbicara. Jadi terlepas dari niat terbaik, **Anda sebenarnya hanya membuat orang lain menunggu** Anda untuk mengutarakan pertanyaan Anda, yang kehilangan produktivitas (dan agak mengganggu).\n"
+"Orang yang melakukan ini biasanya mencoba bersikap sopan dengan tidak langsung menjawab permintaan, seperti yang dilakukan secara langsung atau melalui telepon - dan itu bagus! Tapi ini %1$s dan berpesan secara online bukan keduanya. Bagi kebanyakan orang, mengetik jauh lebih lambat daripada berbicara. Jadi terlepas dari niat terbaik, **Anda sebenarnya hanya membuat orang lain menunggu anda** untuk mengutarakan pertanyaan Anda, yang menghilangkan produktivitas (dan agak mengganggu).\n"
 "\n"
 "Hal yang sama berlaku untuk:\n"
 "\n"
-"- \"Halo, apakah Anda ada di sekitar?\"\n"
+"- \"Halo, apakah Anda sedang kosong?\"\n"
 "- \"hai sophie - pertanyaan singkat.\"\n"
 "- \"Anda punya waktu sebentar?\"\n"
-"- \"yt?\"\n"
-"- \"ping\"\n"
+"- \"kamu disana?\"\n"
+"- \"P\"\n"
 "- dll.\n"
 "\n"
 "**Ajukan saja pertanyaannya!**\n"
@@ -77,16 +78,16 @@ msgstr "2:20 PM"
 # the typo here is intentional - please maintain a similar unprofessional
 # tone!
 msgid "example.bad.message2.body"
-msgstr "jam berapa yang itu tuh?"
+msgstr "jam berapa sih acaranya tuh?"
 
 msgid "example.bad.reply2.timestamp"
 msgstr "2:20 PM"
 
 msgid "example.bad.reply2.body"
-msgstr "oh - 3:30 teman"
+msgstr "oh - 3:30 bro"
 
 msgid "example.good.title"
-msgstr "✅ Alih-alih coba ini"
+msgstr "✅ Alih-alih, coba ini"
 
 msgid "example.good.body"
 msgstr ""
@@ -94,20 +95,20 @@ msgstr ""
 "\n"
 "Sebagai contoh:\n"
 "\n"
-"- \"hey man, ada apa? dan, ada yang tahu kapan waktunya?\"\n"
+"- \"hey, ada kabar? oh iya, kamu tahu kapan waktu acaranya?\"\n"
 "- \"Hai! Semoga kamu baik-baik saja. Saya mencari info terbaru, kalau kamu punya waktu sebentar :)\"\n"
 "- \"hei, jika kamu tidak sibuk, bisakah kamu memperbarui NFR itu?\"\n"
 "- dll.\n"
 "\n"
 "Ini mungkin tampak sepele, tetapi mengajukan pertanyaan sebelum mendapatkan balasan salam awal juga memungkinkan **komunikasi asinkron**. Jika pihak lain sedang pergi, dan Anda pergi sebelum mereka kembali, mereka masih dapat menjawab pertanyaan Anda, alih-alih hanya menatap \"Halo\" dan bertanya-tanya apa yang mereka lewatkan.\n"
 "\n"
-"Ketika dilakukan dengan benar - semua orang senang! 🎉.\n"
+"Ketika dilakukan dengan benar, semua orang senang! 🎉.\n"
 
 msgid "example.good.message1.timestamp"
 msgstr "2:15 PM"
 
 msgid "example.good.message1.body"
-msgstr "Hai! Jam berapa itu tuh?"
+msgstr "Hai! Jam berapa acaranya tuh?"
 
 msgid "example.good.reply1.timestamp"
 msgstr "2:15 PM"
